@@ -1,0 +1,21 @@
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.dateForm {
+  display: flex;
+  flex-direction: column;
+}
+.conceptsForm {
+  display: flex;
+  flex-direction: column;
+}
+.journalForm {
+  display: flex;
+  flex-direction: column;
+}
+.moodForm {
+  display: flex;
+  flex-direction: column;
+}
